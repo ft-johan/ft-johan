@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **Btech CSE**
 
-- 👯 I’m single and ready to find **My coding companion**
 
 - 🤝 I’m looking for help with **Finding direction to CSE-B classroom**
 
 - 📫 How to reach me **johangeorge201203@gmail.com**
 
-- ⚡ Fun fact **U REACHED a place wher u are happy**
+- ⚡ Fun fact **U REACHED a place where u can be happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
