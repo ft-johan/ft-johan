@@ -35,4 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ft-johan&" alt="ft-johan" /></p>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovit-Mathew236&theme=dark" alt="ft-johan"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovit-Mathew236&theme=light" alt="ft-johan"/>
